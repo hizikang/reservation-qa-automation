@@ -1,0 +1,6 @@
+# Update after confirming the local Seatsurfing URL.
+base_url: "http://localhost:8080"
+browser: "chrome"
+implicit_wait_seconds: 0
+explicit_wait_seconds: 10
+headless: false
